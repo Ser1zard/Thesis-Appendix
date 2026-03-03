@@ -1,10 +1,10 @@
 # Thesis-Appendix
 
-**Author:** Stefano Cozzolino  
-**Institution:** Università degli Studi di Salerno — Dipartimento di Informatica  
-**Degree:** Corso di Laurea Triennale in Informatica  
-**Supervisor:** Prof. Fabio Palomba  
-**Academic Year:** 2024–2025
+**Autore:** Stefano Cozzolino  
+**Istituto:** Università degli Studi di Salerno — Dipartimento di Informatica  
+**Corso:** Corso di Laurea Triennale in Informatica  
+**Relatore:** Prof. Fabio Palomba  
+**Anno Accademico:** 2024–2025
 
 ---
 
