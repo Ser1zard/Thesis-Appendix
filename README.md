@@ -10,8 +10,6 @@
 
 ## Overview
 
-This repository contains the replication package for the bachelor's thesis listed above. The thesis presents an update of the Systematic Literature Review (SLR) originally conducted by Aleem et al. (2016) on the Game Development Software Engineering (GDSE) process life-cycle, extending the evidence base with studies published between 2016 and 2025, with a specific focus on the post-production phase.
-
-The materials in this package are intended to support transparency and reproducibility of the review process, in accordance with established SLR reporting guidelines (Wohlin et al., 2020).
+This repository contains the appendix for the bachelor's thesis listed above. The thesis presents an update of the Systematic Literature Review (SLR) originally conducted by Aleem et al. (2016) on the Game Development Software Engineering (GDSE) process life-cycle, extending the evidence base with studies published between 2016 and 2025, with a specific focus on the post-production phase.
 
 ---
